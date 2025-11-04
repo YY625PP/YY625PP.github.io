@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Peng Yu"
+  pronouns         : "He"  
+  bio              : "Student"
+  location         : "China"
+  employer         : "East China Normal University"
+  uri              : "https://yy625pp.github.io/"
+  email            : "51275904040@stu.ecnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -240,7 +240,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      _profile: true
       read_time: true
       comments: true
       share: true
